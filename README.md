@@ -8,7 +8,6 @@ This project is a comprehensive visualization tool for understanding and compari
 4) Merge Sort <br>
 5) Quick Sort <br>
 6) Heap Sort <br>
-<br><br>
 <b>Features:</b><br>
 1) <b>Colored representation of step being executed:<br></b>
   &nbsp;a) Blue:default<br>
