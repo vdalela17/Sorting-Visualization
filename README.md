@@ -11,12 +11,12 @@ This project is a comprehensive visualization tool for understanding and compari
 <br><br>
 <b>Features: </b><br>
 1) <b>Colored representation of step being executed: <br></b>
-	a) Blue : default <br>
-	b) Yellow : Being compared <br>
-	c) Red : Identified as in incorrect position and to be moved <br>
-	d) Green : In correct position <br>
+	a) Blue: default <br>
+	b) Yellow: Being compared <br>
+	c) Red: Identified as in incorrect position and to be moved <br>
+	d) Green: In correct position <br>
 2) <b>3 Controls for visualizations</b><br>
 	a) Speed of visualization (5 speed levels)<br>
-	b) Data size ()<br>
+	b) Data size()<br>
 	c) Generation of new data (Randomly generate new data).<br>
 3) <b>Time and Space complexity of algorithm being visualized.</b>
