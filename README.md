@@ -21,4 +21,4 @@ This project is a comprehensive visualization tool for understanding and compari
 	c) Generation of new data (Randomly generate new data).<br>
 3) <i><b>Time and Space complexity of algorithm being visualized.</b></i>
 
-Check out the live version [here](https://vdalela17.github.io/Sorting-Visualization/).
+<b><b>Check out the live version</b></b> [here](https://vdalela17.github.io/Sorting-Visualization/).
