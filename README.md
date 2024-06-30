@@ -22,4 +22,3 @@ This project is a comprehensive visualization tool for understanding and compari
 3) <i><b>Time and Space complexity of algorithm being visualized.</b></i>
 
 Check out the live version [here](https://vdalela17.github.io/Sorting-Visualization/).
-<a href="https://vdalela17.github.io/Sorting-Visualization/" target="_blank">View Live Version</a>
