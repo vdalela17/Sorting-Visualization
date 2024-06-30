@@ -8,13 +8,13 @@ This project is a comprehensive visualization tool for understanding and compari
 4) Merge Sort <br>
 5) Quick Sort <br>
 6) Heap Sort <br>
-<br>
-<b>Features:</b><br>
-1) <b>Colored representation of step being executed:<br></b>
-	a) Blue : default<br>
-	b) Yellow : Being compared<br>
-	c) Red : Identified as in incorrect position and to be moved<br>
-	d) Green : In correct position<br>
+<br><br>
+<b>Features: </b><br>
+1) <b>Colored representation of step being executed: <br></b>
+	a) Blue : default <br>
+	b) Yellow : Being compared <br>
+	c) Red : Identified as in incorrect position and to be moved <br>
+	d) Green : In correct position <br>
 2) <b>3 Controls for visualizations</b><br>
 	a) Speed of visualization (5 speed levels)<br>
 	b) Data size ()<br>
