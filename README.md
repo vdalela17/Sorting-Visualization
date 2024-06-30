@@ -9,11 +9,12 @@ This project is a comprehensive visualization tool for understanding and compari
 5) Quick Sort <br>
 6) Heap Sort <br>
 <b>Features:</b><br>
+<br><br>
 1) <b>Colored representation of step being executed:<br></b>
-  &nbsp;a) Blue:default<br>
-  &nbsp;b) Yellow: Being compared<br>
-  &nbsp;c) Red: Identified as in incorrect position and to be moved<br>
-  &nbsp;d) Green: In correct position<br>
+  &nbsp;a) Blue : default<br>
+  &nbsp;b) Yellow : Being compared<br>
+  &nbsp;c) Red : Identified as in incorrect position and to be moved<br>
+  &nbsp;d) Green : In correct position<br>
 2) <b>3 Controls for visualizations</b><br>
   &nbsp;a) Speed of visualization (5 speed levels)<br>
   &nbsp;b) Data size ()<br>
