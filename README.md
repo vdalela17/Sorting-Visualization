@@ -1,14 +1,13 @@
 # Sorting-Visualization
 This project is a comprehensive visualization tool for understanding and comparing different sorting algorithms. It provides an interactive platform to visualize the step-by-step process of various sorting techniques, making it an excellent educational resource for students, educators, and anyone interested in learning about sorting algorithms.
-<br>
+
 <b>Algorithms Implmented: </b><br>
 1) Bubble Sort <br>
 2) Selection Sort <br>
 3) Insertion Sort <br>
 4) Merge Sort <br>
 5) Quick Sort <br>
-6) Heap Sort
-<br>
+6) Heap Sort <br>
 
 <b>Features: </b><br>
 1) <i><b>Colored representation of step being executed: <br></b></i>
