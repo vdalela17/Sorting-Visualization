@@ -11,7 +11,7 @@ This project is a comprehensive visualization tool for understanding and compari
 <br><br>
 
 <b>Features: </b><br>
-1) <b>Colored representation of step being executed: <br></b>
+1) <i><b>Colored representation of step being executed: <br></b></i>
 	a) Blue: default <br>
 	b) Yellow: Being compared <br>
 	c) Red: Identified as in incorrect position and to be moved <br>
