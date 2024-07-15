@@ -1,24 +1,73 @@
-# Sorting-Visualization
-This project is a comprehensive visualization tool for understanding and comparing different sorting algorithms. It provides an interactive platform to visualize the step-by-step process of various sorting techniques, making it an excellent educational resource for students, educators, and anyone interested in learning about sorting algorithms.
+<h1>Sorting Visualizer</h1>
+    <p>Sorting Visualizer is a web-based application that visualizes various sorting algorithms. It allows users to select different sorting algorithms and observe how they work on an array of numbers.</p>
+    
+    <h2>Features</h2>
+    <ul>
+        <li>Visualizes the following sorting algorithms:
+            <ul>
+                <li>Bubble Sort</li>
+                <li>Selection Sort</li>
+                <li>Insertion Sort</li>
+                <li>Merge Sort</li>
+                <li>Quick Sort</li>
+                <li>Heap Sort</li>
+            </ul>
+        </li>
+        <li>Adjustable array size</li>
+        <li>Adjustable sorting speed</li>
+        <li>Option to show comparison steps</li>
+    </ul>
 
-<b>ALGORITHMS IMPLEMENTED: </b><br>
-1) Bubble Sort <br>
-2) Selection Sort <br>
-3) Insertion Sort <br>
-4) Merge Sort <br>
-5) Quick Sort <br>
-6) Heap Sort <br>
+    <h2>Getting Started</h2>
+    <h3>Prerequisites</h3>
+    <p>To run this project, you need a web browser that supports modern web technologies (HTML5, CSS3, and JavaScript ES6).</p>
 
-<b>FEATURES: </b><br>
-1) <i><b>Colored representation of step being executed: <br></b></i>
-	a) Blue: default <br>
-	b) Yellow: Being compared <br>
-	c) Red: Identified as in incorrect position and to be moved <br>
-	d) Green: In correct position <br>
-2) <i><b>3 Controls for visualizations</b><br></i>
-	a) Speed of visualization (5 speed levels)<br>
-	b) Data size()<br>
-	c) Generation of new data (Randomly generate new data).<br>
-3) <i><b>Time and Space complexity of algorithm being visualized.</b></i>
+    <h3>Installation</h3>
+    <pre><code>git clone https://github.com/your-username/sorting-visualizer.git
+cd sorting-visualizer</code></pre>
 
-<b><b>Check out the live version</b></b> [here](https://vdalela17.github.io/Sorting-Visualization/).
+    <h3>Usage</h3>
+    <ol>
+        <li>Open <code>index.html</code> in your web browser.</li>
+        <li>Adjust the array size and sorting speed using the provided controls.</li>
+        <li>Select a sorting algorithm by clicking the corresponding button.</li>
+        <li>Optionally, check the "Show Comparison Steps" checkbox to visualize the comparison steps during sorting.</li>
+        <li>Click the "Generate New Array!" button to create a new array and start sorting.</li>
+    </ol>
+
+    <h2>File Structure</h2>
+    <pre><code>sorting-visualizer/
+├── css/
+│   └── style.css
+├── scripts/
+│   ├── main.js
+│   ├── visualizations.js
+│   ├── bubble_sort.js
+│   ├── selection_sort.js
+│   ├── insertion_sort.js
+│   ├── merge_sort.js
+│   ├── quick_sort.js
+│   └── heap_sort.js
+├── index.html
+└── README.md</code></pre>
+
+    <ul>
+        <li><code>css/style.css</code>: Contains the styles for the project.</li>
+        <li><code>scripts/main.js</code>: Contains the main JavaScript code for handling UI interactions and algorithm selection.</li>
+        <li><code>scripts/visualizations.js</code>: Contains functions for visualizing the sorting process.</li>
+        <li><code>scripts/bubble_sort.js</code>, <code>scripts/selection_sort.js</code>, etc.: Contain the implementations of the respective sorting algorithms.</li>
+        <li><code>index.html</code>: The main HTML file that loads the web application.</li>
+        <li><code>README.md</code>: The file you are currently reading.</li>
+    </ul>
+
+    <h2>Contributing</h2>
+    <p>Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or bug reports.</p>
+
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+
+    <h2>Acknowledgments</h2>
+    <ul>
+        <li>The project is inspired by various online sorting visualizer tools and tutorials.</li>
+        <li>Thanks to all contributors and users who provide feedback and improvements.</li>
+    </ul>
