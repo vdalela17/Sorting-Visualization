@@ -30,3 +30,20 @@ cd sorting-visualizer</code></pre>
         <li>Optionally, check the "Show Comparison Steps" checkbox to visualize the comparison steps during sorting.</li>
         <li>Click the "Generate New Array!" button to create a new array and start sorting.</li>
     </ol>
+    <ul>
+        <li><code>css/style.css</code>: Contains the styles for the project.</li>
+        <li><code>scripts/main.js</code>: Contains the main JavaScript code for handling UI interactions and algorithm selection.</li>
+        <li><code>scripts/visualizations.js</code>: Contains functions for visualizing the sorting process.</li>
+        <li><code>scripts/bubble_sort.js</code>, <code>scripts/selection_sort.js</code>, etc.: Contain the implementations of the respective sorting algorithms.</li>
+        <li><code>index.html</code>: The main HTML file that loads the web application.</li>
+        <li><code>README.md</code>: The file you are currently reading.</li>
+    </ul>
+    <h2>Contributing</h2>
+    <p>Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or bug reports.</p>
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+    <h2>Acknowledgments</h2>
+    <ul>
+        <li>The project is inspired by various online sorting visualizer tools and tutorials.</li>
+        <li>Thanks to all contributors and users who provide feedback and improvements.</li>
+    </ul>
