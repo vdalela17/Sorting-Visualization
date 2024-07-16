@@ -40,7 +40,6 @@ cd sorting-visualizer</code></pre>
     </ul>
     <h2>Contributing</h2>
     <p>Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have any suggestions or bug reports.</p>
-    
     <h2>Acknowledgments</h2>
     <ul>
         <li>The project is inspired by various online sorting visualizer tools and tutorials.</li>
